@@ -1,0 +1,1 @@
+insert into accounts(id,username,senha,email) VALUES(1,'teste','teste123','teste@gmail.com')
